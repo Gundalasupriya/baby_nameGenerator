@@ -1,0 +1,46 @@
+export default {
+  "@vite/client": {
+    "isEntry": true,
+    "file": "@vite/client",
+    "css": [
+      "node_modules/@nuxt/ui-templates/dist/templates/error-404.vue?vue&type=style&index=0&scoped=bc8852ab&lang.css",
+      "node_modules/@nuxt/ui-templates/dist/templates/error-dev.vue?vue&type=style&index=0&scoped=6b2d7187&lang.css",
+      "node_modules/@nuxt/ui-templates/dist/templates/error-500.vue?vue&type=style&index=0&scoped=f37408fc&lang.css",
+      "components/Option.vue?vue&type=style&index=0&scoped=6795a8cb&lang.css",
+      "components/Card/Name.vue?vue&type=style&index=0&scoped=62a587d2&lang.css",
+      "app.vue?vue&type=style&index=0&scoped=938b83b0&lang.css"
+    ],
+    "module": true,
+    "resourceType": "script"
+  },
+  "node_modules/@nuxt/ui-templates/dist/templates/error-404.vue?vue&type=style&index=0&scoped=bc8852ab&lang.css": {
+    "file": "node_modules/@nuxt/ui-templates/dist/templates/error-404.vue?vue&type=style&index=0&scoped=bc8852ab&lang.css",
+    "resourceType": "style"
+  },
+  "node_modules/@nuxt/ui-templates/dist/templates/error-dev.vue?vue&type=style&index=0&scoped=6b2d7187&lang.css": {
+    "file": "node_modules/@nuxt/ui-templates/dist/templates/error-dev.vue?vue&type=style&index=0&scoped=6b2d7187&lang.css",
+    "resourceType": "style"
+  },
+  "node_modules/@nuxt/ui-templates/dist/templates/error-500.vue?vue&type=style&index=0&scoped=f37408fc&lang.css": {
+    "file": "node_modules/@nuxt/ui-templates/dist/templates/error-500.vue?vue&type=style&index=0&scoped=f37408fc&lang.css",
+    "resourceType": "style"
+  },
+  "components/Option.vue?vue&type=style&index=0&scoped=6795a8cb&lang.css": {
+    "file": "components/Option.vue?vue&type=style&index=0&scoped=6795a8cb&lang.css",
+    "resourceType": "style"
+  },
+  "components/Card/Name.vue?vue&type=style&index=0&scoped=62a587d2&lang.css": {
+    "file": "components/Card/Name.vue?vue&type=style&index=0&scoped=62a587d2&lang.css",
+    "resourceType": "style"
+  },
+  "app.vue?vue&type=style&index=0&scoped=938b83b0&lang.css": {
+    "file": "app.vue?vue&type=style&index=0&scoped=938b83b0&lang.css",
+    "resourceType": "style"
+  },
+  "C:/Users/Nspira/Desktop/01-Baby-Name-Generator/node_modules/nuxt/dist/app/entry": {
+    "isEntry": true,
+    "file": "C:/Users/Nspira/Desktop/01-Baby-Name-Generator/node_modules/nuxt/dist/app/entry",
+    "module": true,
+    "resourceType": "script"
+  }
+}
